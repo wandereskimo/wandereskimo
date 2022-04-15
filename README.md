@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wandereskimo.
 - 👀 I’m interested in UI/UX, Fullstack, Cloud & Blockchain.
 - 🌱 I’m currently learning Fullstack.
-- 💞️ I’m looking to collaborate on Projects which are capable for me.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me baeesill@outlook.com
 
 <!---
