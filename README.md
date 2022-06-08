@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wandereskimo.
+- 👋 Hi, I’m Baesil aka @wandereskimo.
 - 👀 I’m interested in UI/UX, Fullstack, Cloud & Blockchain.
 - 🌱 I’m currently learning Fullstack.
 - 💞️ I’m looking to collaborate on Projects.
